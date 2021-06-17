@@ -1,1 +1,2 @@
-# Flashcards_Project_Thinkful
+# Flashcards-App-Project
+Flashcards App for Thinkful project
